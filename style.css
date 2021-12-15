@@ -18,6 +18,7 @@ body {
 
 .story {
   color: blue;
+  font-size: 3rem;
 }
 
 
@@ -30,11 +31,7 @@ header.startup {
 
 
 h1 {
-  font-size: 4rem;
+  font-size: 5rem;
   text-align: center;
   font-family: 'Montserrat', sans-serif;
-
-  @media (max-width: 990px) {
-    font-size: 2rem;
-  }
 }
